@@ -23,6 +23,7 @@ npm install
 node.index.js
 
 **Endpoints**
+
 Method  Endpoint  Description
 
 GET     /         Welcome message
