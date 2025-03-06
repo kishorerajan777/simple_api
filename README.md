@@ -24,11 +24,11 @@ node.index.js
 
 **Endpoints**
 
-Method  Endpoint  Description
+Method  Endpoint        Description
 
-GET     /         Welcome message
+GET           /                     Welcome message
 
-GET     /data     Returns sample JSON data
+GET          /data                  Returns sample JSON data
 
 **Example Response**
 
